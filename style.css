@@ -28,6 +28,7 @@ body {
   text-transform: uppercase;
   padding: 50px;
   font-weight: bold;
+  color: #3e3a71;
 }
 .item:hover {
   color:#11ad93;
